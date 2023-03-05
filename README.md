@@ -1,4 +1,6 @@
 # Mine_prediction
+![images-_9_](https://user-images.githubusercontent.com/111365771/222960326-41e7ae6b-61f6-4cb9-9b38-ad289b13c601.jpg)
+
 This project aims to classify sonar signals into two categories: rocks and mines using the oneDNN 
 
 # Introduction:
@@ -7,6 +9,7 @@ Sonar data is widely used in many applications such as underwater communication 
 readings and their corresponding labels.
 
 # About oneAPI and oneDNN:
+![download](https://user-images.githubusercontent.com/111365771/222960387-f6aa6eb8-ef74-44aa-8576-78f6b78c29a8.jpg)
 
 oneAPI is an open-source software toolkit developed by Intel that simplifies the development of high-performance, heterogeneous applications. It allows developers to write code that can run efficiently on a variety of architectures, including CPUs, GPUs, and FPGAs. oneDNN (Deep Neural Network) is a part of oneAPI and is an optimized library for deep learning. It provides highly optimized building blocks for neural network models that run efficiently on a variety of hardware platforms.
 
